@@ -20,5 +20,6 @@
         // The connectedCallback is now empty because we want the car to STAY.
         connectedCallback() {}
     }
-    customElements.define("com-parth-car-final", CarVanishWidget);
+    customElements.define("com-yourname-car-final", CarVanishWidget);
+
 })();
